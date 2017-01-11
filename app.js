@@ -20,8 +20,8 @@ function init () {
     document.getElementById('score-0').textContent = 0;
     document.getElementById('current-1').textContent = 0;
     document.getElementById('current-0').textContent = 0;
-    document.getElementById('name-1').textContent = 'Chris';
-    document.getElementById('name-0').textContent = 'JP';
+    document.getElementById('name-1').textContent = 'Player 1';
+    document.getElementById('name-0').textContent = 'Player 2';
     document.querySelector('.dice').style.display = 'none';
     document.querySelector('.player-0-panel').classList.remove('winner');
     document.querySelector('.player-1-panel').classList.remove('winner');
