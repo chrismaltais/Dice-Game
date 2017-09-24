@@ -10,4 +10,4 @@ A game to play with a friend based on dice logic.
 6) If you roll two 6's in a row, you lose your total score and it's your opponents turn  
 7) First player with a total score equal to or **greater than** the winning score wins!  
 
-! [alt text](Dice-Game/DiceGameScreenshot.png)
+! [alt text](DiceGameScreenshot.png)
